@@ -16,7 +16,7 @@
 
 
            <!-- SonarQube properties -->
-    <sonar.host.url>http://174.129.56.90:9000</sonar.host.url>
+    <sonar.host.url>http://3.94.81.38:9000/</sonar.host.url>
     <sonar.projectKey>jenkins-sonar</sonar.projectKey>
     <sonar.projectName>jenkins-sonar</sonar.projectName>
            
