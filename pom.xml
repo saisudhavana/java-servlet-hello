@@ -13,6 +13,13 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <surefire.reportplugin.version>2.12.4</surefire.reportplugin.version>
+
+
+           <!-- SonarQube properties -->
+    <sonar.host.url>http://174.129.56.90:9000</sonar.host.url>
+    <sonar.projectKey>jenkins-sonar</sonar.projectKey>
+    <sonar.projectName>jenkins-sonar</sonar.projectName>
+           
   </properties>
   <dependencies>
     <dependency>
